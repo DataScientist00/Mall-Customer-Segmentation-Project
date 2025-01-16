@@ -4,7 +4,7 @@ This project demonstrates the clustering of mall customers based on their spendi
 
 ## Watch the Video 📺
 
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@DataScience00)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/8SftgRodXiU)
 
 ![output](https://github.com/user-attachments/assets/40d664ec-98e4-4b11-85da-3d0cbd27cc11)
 
