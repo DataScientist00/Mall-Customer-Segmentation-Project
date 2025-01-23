@@ -2,6 +2,8 @@
 
 This project demonstrates the clustering of mall customers based on their spending habits and income using the `Mall_Customers.csv` dataset. The project applies Exploratory Data Analysis (EDA), implements KMeans and DBSCAN clustering techniques, and deploys a web app built with Streamlit using Docker and Render.
 
+https://mall-customer-segmentation-project.streamlit.app/
+
 ## Watch the Video 📺
 
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white&style=for-the-badge)](https://youtu.be/8SftgRodXiU)
